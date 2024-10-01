@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.blue{
+  color: #1a95bb;
+}
+
+
+
+.header-buttons{
+background-color:#1a95bb;
+justify-content: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 10px;
+display: flex;
+gap: 50px;
+font-size: larger;
+}
+.Child-Container{
+  font-size: 50px;
+  margin: 90px;
+}
+.picture{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; 
+  margin-top: 100px;
+  margin-right: 55px;
+
+}
+.Parents-Container{
+  display: flex;
+  justify-items: center;
+  justify-content: space-between;
+}
+.Heading{
+  font-size: x-large;
+  border: 2px solid #1a95bb;
+  padding: 10px;
+  margin-top: 50px;
+  justify-content: center;
+  text-align: center;
+  border-radius: 10px;
+}
+.SkillAdding{
+  /* display:block;
+  border: 2px solid black;
+  border-radius: 20px;
+  justify-content: center;
+  padding: 40px;
+  margin: 50px;
+  text-align: center;
+  font-size: x-large;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255); */
+border: 2px solid #1a95bb;
+border-radius: 30px;
+padding: 10px;
+margin: 20px;
+text-align: center;
+font-size: large;
+
+}
+.About{
+  font-size: large;
+}
+.project{
+  font-size: xx-large;
+  text-align: center;
+}
+.parentspics{
+  display: flex;
+  justify-content: space-between;
+}
+.leftpicture{
+  height: 300px;
+  width: 300px;
+  margin: 80px;
+}
+.CenterPicture{
+  height: 300px;
+  width: 300px;
+  margin: 80px;
+}
+.Rightpicture{
+  height: 300px;
+  width: 300px;
+  margin: 80px;
+  border-radius: 30px;
+}
+.Downpicture{
+  height: 300px;
+  width: 300px;
+  margin: 80px;
+  border-radius: 30px;
+}
+.left{
+  margin-left: 165px;
+}
+.center{
+  margin-left: 165px;
+}
+.right{
+  margin-left: 130px;
+}
+.down{
+  margin-left: 135px;
+}
+.aboutus{
+font-size: xx-large;
+text-align: center;
+margin-top: 150px;
+}
+
+.contact{
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 50px;
+}
+.phoneno{
+  font-size: x-large;
+  text-align: center;
+}
+.email{
+  font-size: x-large;
+  text-align: center;
+}
+.design{
+  border-radius: 20px;
+  border-color: black;
+  margin-top: 100px;
+  margin-left: 150px;
+  background-color: #b7eeff;
+  height: 65px;
+  width: 400px;
+
+}
+.design2{
+  border-radius: 20px;
+  border-color: black;
+  background-color: #b7eeff;
+  height: 65px;
+  width: 400px;
+  margin-top: 30px;
+  margin-left: 150px;
+}
+.design3{
+  border-radius: 20px;
+  border-color: black;
+  background-color: #b7eeff;
+  height: 65px;
+  width: 400px;
+  margin-top: 30px;
+  margin-left: 150px;
+}
+.design4{
+  border-radius: 20px;
+  border-color: black;
+  background-color: #b7eeff;
+  height: 250px;
+  width: 500px;
+  margin: 100px;
+}
+.maincontainer{
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+}
+.buttons{
+  border-radius: 20px;
+  border-color: black;
+  background-color: #b7eeff; border-radius: 20px;
+  height:50px;
+  width: 150px;
+  margin-left: 530px;
+}
